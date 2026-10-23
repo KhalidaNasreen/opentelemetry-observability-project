@@ -27,9 +27,6 @@ This project explores end-to-end observability using the OpenTelemetry Demo appl
 | Jaeger | Distributed trace exploration |
 | Docker Compose | Service orchestration |
 
-## Screenshots
-Screenshots of the application, metrics, and dashboards will be added here.
-
 ## Reference
 This project uses the official [OpenTelemetry Demo](https://github.com/open-telemetry/opentelemetry-demo) as its application foundation.
 
